@@ -1,2 +1,3 @@
-# kristiphammie.github.io
-Stox_4 Homolog Classification
+## Structural Analysis
+| molx_link | pdb_link |
+| --- | --- |
