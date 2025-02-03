@@ -2,8 +2,8 @@
 | **molx_link** | **pdb_link** | **group** |
 | --- | --- | ---
 | [Stox_4](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/stox_4.molx&snapshot-url-type=molx) | test | BECR-like |
-| Stox_3 | test | BECR-like |
-| Stox_1 | test | BECR-like |
+| [Stox_3](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/stox_3.molx&snapshot-url-type=molx) | test | BECR-like |
+| [Stox_1](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/stox_1.molx&snapshot-url-type=molx) | test | BECR-like |
 | Stox_55 | test | BECR-like |
 | Ntox7 | test | BECR-like |
 | Ntox47g | test | BECR-like |
@@ -20,11 +20,11 @@
 | RNase T1 | test | Fungals |
 | RNase U2 | test | Fungals |
 | Sarcin | test | Fungals |
-| Barnase | test | Classical BECR |
+| [Barnase](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/barnase.molx&snapshot-url-type=molx) | test | Classical BECR |
 | EndoU | test | Classical BECR |
-| Colicin E5 | test | Classical BECR |
+| [Colicin E5](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/colicine5.molx&snapshot-url-type=molx) | test | Classical BECR |
 | Colicin D | test | Classical BECR |
-| RelE | test | Classical BECR |
+| [RelE](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/rele.molx&snapshot-url-type=molx) | test | Classical BECR |
 | Ntox19z | test | Zhang |
 | Ntox35 | test | Zhang |
 | Ntox36 | test | Zhang |
