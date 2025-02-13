@@ -18,9 +18,9 @@
 | Ntox47b | test | BECR |
 | Ntox49b | test | BECR |
 | Tox-ribonuclease | test | BECR |
-| (RNase T1)[https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/RNase_T1.molx&snapshot-url-type=molx] | test | Fungals |
-| (RNase U2)[https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/RNase_U2.molx&snapshot-url-type=molx] | test | Fungals |
-| (Sarcin)[https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/sarcin.molx&snapshot-url-type=molx] | test | Fungals |
+| [RNase T1](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/RNase_T1.molx&snapshot-url-type=molx) | test | Fungals |
+| [RNase U2](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/RNase_U2.molx&snapshot-url-type=molx) | test | Fungals |
+| [Sarcin](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/sarcin.molx&snapshot-url-type=molx) | test | Fungals |
 | [Barnase](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/barnase.molx&snapshot-url-type=molx) | test | Classical BECR |
 | [EndoU N-terminal](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/endoU_n.molx&snapshot-url-type=molx)  [EndoU C-terminal](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/endoU_c.molx&snapshot-url-type=molx) | test | Classical BECR |
 | [Colicin E5](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/colicine5.molx&snapshot-url-type=molx) | test | Classical BECR |
