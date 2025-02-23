@@ -8,9 +8,10 @@
 | [Stox_55](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/stox_55.molx&snapshot-url-type=molx) | test | BECR-like |
 | [Ntox7](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/ntox7g.molx&snapshot-url-type=molx) | test | BECR-like |
 | [Ntox47g](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/ntox47g.molx&snapshot-url-type=molx) | test | BECR-like |
-| Stox_2 | test | BECR |
-| Stox_6 | test | BECR |
-| Stox_57 | test | BECR |
+| [Stox_2](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/stox_2.molx&snapshot-url-type=molx) | test | BECR |
+| [Stox_6](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/stox_6.molx&snapshot-url-type=molx) | test | BECR |
+| [Stox_37](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/stox_37.molx&snapshot-url-type=molx) | test | BECR |
+| [Stox_57](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/stox_57.molx&snapshot-url-type=molx) | test | BECR |
 | Stox_58 | test | BECR |
 | Stox_59 | test | BECR |
 | Stox_60 | test | BECR |
