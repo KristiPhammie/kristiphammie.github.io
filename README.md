@@ -15,9 +15,9 @@
 | [Stox_58](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/stox_58.molx&snapshot-url-type=molx) | test | BECR |
 | [Stox_59](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/stox_59.molx&snapshot-url-type=molx) | test | BECR |
 | [Stox_60](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/stox_60.molx&snapshot-url-type=molx) | test | BECR |
-| [Ntox19b](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/Ntox19b.molx&snapshot-url-type=molx) | test | BECR | 
-| [Ntox47b](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/Ntox47b.molx&snapshot-url-type=molx) | test | BECR |
-| [Ntox49b](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/Ntox49b.molx&snapshot-url-type=molx) | test | BECR |
+| [Ntox19b](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/ntox19b.molx&snapshot-url-type=molx) | test | BECR | 
+| [Ntox47b](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/ntox47b.molx&snapshot-url-type=molx) | test | BECR |
+| [Ntox49b](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/ntox49b.molx&snapshot-url-type=molx) | test | BECR |
 | [Tox-ribonuclease](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/BECR/tox-ribo.molx&snapshot-url-type=molx) | test | BECR |
 | [RNase T1](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/fungals/RNase_T1.molx&snapshot-url-type=molx) | test | Fungals |
 | [RNase U2](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/fungals/RNase_U2.molx&snapshot-url-type=molx) | test | Fungals |
