@@ -27,9 +27,9 @@
 | [Colicin E5](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/ff/colicine5.molx&snapshot-url-type=molx) | test | Classical BECR |
 | [Colicin D](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/ff/colicinD.molx&snapshot-url-type=molx) | test | Classical BECR |
 | [RelE](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/ff/rele.molx&snapshot-url-type=molx) | test | Classical BECR |
-| Ntox19z | test | Zhang |
+| [Ntox19z](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/zhang/ntox19z.molx&snapshot-url-type=molx) | test | Zhang |
 | [Ntox35](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/zhang/ntox35.molx&snapshot-url-type=molx) | test | Zhang |
-| Ntox36 | test | Zhang |
-| Ntox47z | test | Zhang |
-| Ntox49z | test | Zhang |
-| Ntox50 | test | Zhang |
+| [Ntox36](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/zhang/ntox36.molx&snapshot-url-type=molx) | test | Zhang |
+| [Ntox47z](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/zhang/ntox47z.molx&snapshot-url-type=molx) | test | Zhang |
+| [Ntox49z](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/zhang/ntox49z.molx&snapshot-url-type=molx) | test | Zhang |
+| [Ntox50](https://molstar.org/viewer/?snapshot-url=https://kristiphammie.github.io/molstar/zhang/ntox50.molx&snapshot-url-type=molx) | test | Zhang |
